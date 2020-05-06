@@ -9,3 +9,5 @@ pip install -r requirements.txt //（パッケージインストール）
 jupyter notebook //jupyter起動
 ブラウザでこねこね
 ```
+
+Python: 3.8.2
