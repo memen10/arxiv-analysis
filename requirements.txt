@@ -21,7 +21,7 @@ docutils==0.15.2
 entrypoints==0.3
 feedparser==5.2.1
 funcy==1.14
-future==0.18.2
+future==0.18.3
 gensim==3.8.3
 idna==2.9
 ipykernel==5.2.1
